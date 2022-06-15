@@ -1647,13 +1647,33 @@ figcaption {
     grid-template-rows: auto auto auto;
   }
 
+  .image {
+    min-height: 0px;
+  }
+
+  .image-2 {
+    min-height: 0px;
+  }
+
+  .image-3 {
+    min-height: 0px;
+  }
+
+  .image-4 {
+    min-height: 0px;
+  }
+
   .image-5 {
-    height: 100%;
+    min-height: 0px;
   }
 
   .contact_column {
     padding-top: 10px;
     padding-bottom: 10px;
+  }
+
+  .image-6 {
+    min-height: 0px;
   }
 }
 
